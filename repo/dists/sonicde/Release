@@ -5,13 +5,13 @@ Codename: sonicde
 Architectures: amd64
 Components: main
 Description: Essora SonicDE package repository
-Date: Wed, 21 Oct 2026 18:18:14 +0000
+Date: Wed, 21 Oct 2026 18:32:36 +0000
 MD5Sum:
- c3fe2cc591150eebb869ea6dcc210ed6 574 main/binary-amd64/Packages
- f39749fac1a7f1981dd8e9d7ab4a860a 398 main/binary-amd64/Packages.gz
+ 736693bd352c8804eb7eba8533e2582f 628 main/binary-amd64/Packages
+ 0332281f972ef8ed984ccf6ca0adc50a 432 main/binary-amd64/Packages.gz
 SHA256:
- 80353f4c7e7fb0b388ce90db9853443837aaf79d230ac4a72367b1c3188fe354 574 main/binary-amd64/Packages
- 3928223b5c3b3924ce75ce3d8aad59070258aeac8e8ceed5973cd87bd96d587e 398 main/binary-amd64/Packages.gz
+ d957c6ef3a0bd5f8f10c8c8aeb9aed0311f589657e606343c232774bef8cfe3c 628 main/binary-amd64/Packages
+ 96054b4bd00dbab92bdf219a43adc202e6114b18a4cf149e51f519316b7136df 432 main/binary-amd64/Packages.gz
 SHA512:
- 947ec97c5f51b2afc245a00602011cf296292f1d3fb9377767ecd71e89a2838ffd542c49c2f9269704bcd2c76d5f272cc924fbf06cdf38d1a1430a7b263e99e9 574 main/binary-amd64/Packages
- 06f1cf7f853a18009cf187960871cdc5cfb2ab502c8c2683f1488e5e882ee9782d5e537ba848151bc54422f3253f704a61c6412cdd21616dbbbc8588480986c6 398 main/binary-amd64/Packages.gz
+ ac91ac95bf75e9ae0a3de09c4e2c32219dcfb93e074934cec402ab45c3a072b4379ed848264a4cdcf22de70b0db7d9f486d6cac0ad36ecaaf6adab55f204026b 628 main/binary-amd64/Packages
+ 346a493cd2a4c5704299fa676c5eee63f3a6335cb99ebbe16bed4f0b98db20f0c631ed17cde2ab7bda7c46cced32e24df96c2945b582cd841b2a212476b9af00 432 main/binary-amd64/Packages.gz

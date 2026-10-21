@@ -1,14 +1,16 @@
 Package: essora-sonicde-repository
 Version: 1.0.0
 Architecture: all
-Maintainer: Essora Project <repo@essora.org>
+Maintainer: josejp2424 <puppylinuxjosejp2424@gmail.com>
+Installed-Size: 2
 Filename: pool/main/essora-sonicde-repository_1.0.0_all.deb
-Size: 2368
-MD5sum: efedc89ff4a72bf3f83b8b2acca842e7
-SHA1: 87515c0c804dbdc828fc90910eec6fcca136e3ec
-SHA256: fb1bdf940b034088eeb616e77e734a6c6fa6a72c32e73767333af070bba3e9d1
+Size: 2620
+MD5sum: 845e198b79c526d36fa1d61af0d7e64c
+SHA1: c01b002a562874a8686cb4a0e676deb430cf6c42
+SHA256: a3c085187be19760c9abd7d083a98cb0c1e2d0ff28af7d2bc57a68f326692eaa
 Section: admin
 Priority: optional
+Homepage: www.essora.org
 Description: Essora SonicDE APT repository configuration
  Installs the Essora SonicDE repository signing key and APT source.
  The signing key is restricted to this repository through Signed-By.
