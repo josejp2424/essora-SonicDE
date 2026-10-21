@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Essora SonicDE
+Label: Essora SonicDE
+Suite: sonicde
+Codename: sonicde
+Architectures: amd64
+Components: main
+Description: Essora SonicDE package repository
+Date: Wed, 21 Oct 2026 17:54:19 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ dd27884f5d0fe50e22e45d07e0e06835 29 main/binary-amd64/Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ b3472f2ad499cb6f19e5b9f127bc5d8e696e490c3baa720e64c6549038f1eb75 29 main/binary-amd64/Packages.gz
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e 0 main/binary-amd64/Packages
+ af7c75dd7d2aa0093a8a8618a91615e3f7573bd44bcbd9181fc738c28a0be3bde15e74aaa8ae49e79e1213e192bf01817de22b350fe03e928b1a944d9127ec47 29 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEmMn2wvyb5Y6/8kaNUJlKegd6oI4FAmrY/EsACgkQUJlKegd6
+oI6hgA/8C+w64fOxwt5XhsG6tODfntvMOodlrTvf6P1Oezu9HSMduQapsoB3bECf
+PRPy9VS1byquMHZs4I1cG0RzyRe2M8PFk0qPiyFJdw2egl3Z4OQnzA7AMKyMxoLH
+F5IX3F1Ggh0iEs/F1zj0l2c6tJGnntR9i8RAggCBdrGwf1A6eEoJ8cvkeXHaJyHQ
+aV4rGS9ch68lNNVTAfcjQosqGlXmjv3iAI6qkdsmxGcfqD201dIdO+0Nb/2S9pyC
+7Ro6xBE70V1NJWnPv2z9ORCmmGccrTnDrhPJt3TKtASMz5ZANijwYt0j/SOWhtK+
+QmuLxHKK9eyeOsIaEzdjBk7bO2bSObckBWW6jPG+tKte6NJAho7A5VadzKv3x3EA
+5mLeHLfPZTZPTDvVkiwdMheLW/gFuA8KnznTAPv5MjejdsWwG/fU8vNT3CLGXnAz
+3ylLlOSbd6YmvSzhFQAAFC1xoviA0gze5GYpmXd0RKOw2TKhyVFl2P4+eJVluLOU
+M2FtquwT5Kx1Tw81qRmaQBS/IyP8wegexjGqcnMSHB5U26R1SE3uQIjFvEp16Alh
+Imb4AXGUnGjKRMtwbExS4W2FQy2qCPf/eE2ussXaMhvTTBiW0QNy3yWsDmG9l39c
+BBz3RVSNxwSXYIq3jFm1MW2WWtqbbKOJ08A4DVCI6Q0B4QhtJG4=
+=/gD+
+-----END PGP SIGNATURE-----
