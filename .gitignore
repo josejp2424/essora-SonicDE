@@ -1,0 +1,7 @@
+# Private signing material backup must never be committed.
+sonicde-repo-key-backup/
+
+# Temporary files
+*.tmp
+*.swp
+*~
